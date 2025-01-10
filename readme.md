@@ -8,13 +8,14 @@
 ### 4. Earphone : Airpods Pro Gen 1
 ### 5. HP : Samsung Galaxy A51
 ### 6. HP Stand : Ugreen
-### 6. Desk : 
-### 7. Desk Shelf : 
-### 8. Chair : 
-### 9. Keyboard : 
-### 10. Mouse : 
-### 11. Mousepad : 
-### 12. Docking Station :
-
-### 13. Desk Plant
-### 14. Console : PS 4 Slim (White)
+### 7. Lazypod : Ugreen
+### 8. Desk : 
+### 9. Desk Shelf : 
+### 10. Chair : 
+### 11. Keyboard : 
+### 12. Mouse : 
+### 13. Mousepad : 
+### 14. Docking Station : 
+### 15. Desk Plant : Ikea
+### 16. Console : PS 4 Slim (White)
+### 17. Action Figure : 
