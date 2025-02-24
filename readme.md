@@ -19,4 +19,4 @@
 ### [ &nbsp;] &nbsp;&nbsp;&nbsp;Docking Station : 
 ### [ &nbsp;] &nbsp;&nbsp;&nbsp;Desk Plant : Ikea
 ### [√] &nbsp;&nbsp;&nbsp;Console : PS 4 Slim (White)
-### [ &nbsp;] &nbsp;&nbsp;&nbsp;Action Figure :
+### [ &nbsp;] &nbsp;&nbsp;&nbsp;Action Figure : Zero Two (Darling in the Franxx)
